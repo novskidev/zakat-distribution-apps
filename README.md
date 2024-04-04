@@ -12,7 +12,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git [clone <repository-url>](https://github.com/novskidev/zakat-distribution-app)
+   git clone https://github.com/novskidev/zakat-distribution-app)
    ```
 
 2. Navigate to the project directory:
